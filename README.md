@@ -1,4 +1,4 @@
-# IoT-for-M-Cycle-AC
+# OCC using IOT for M-Cycle ACs
 
 | #  | Component                                                 | Typical spec / part number\*              |  Qty  | Unit cost (₹) | Sub-total (₹) | Purpose                        |
 | -- | --------------------------------------------------------- | ----------------------------------------- | :---: | ------------: | ------------: | ------------------------------ |
